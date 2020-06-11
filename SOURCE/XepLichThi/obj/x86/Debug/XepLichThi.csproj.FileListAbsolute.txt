@@ -1,0 +1,11 @@
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.csprojAssemblyReference.cache
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmChonNhom.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmChonPhong.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectNhom.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectPhong.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmFormMain.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+E:\New folder (2)\mainamctk33-xep-lich-thi-4b74b7d4f7b9\SOURCE\XepLichThi\obj\x86\Debug\XepLichThi.csproj.GenerateResource.cache
